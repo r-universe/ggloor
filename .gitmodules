@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aIc"]
+	path = aIc
+	url = https://github.com/ggloor/aic
+	shallow = true
+	registered = true
 [submodule "ALDEx2"]
 	path = ALDEx2
 	url = https://github.com/ggloor/aldex_bioc
