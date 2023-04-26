@@ -13,3 +13,8 @@
 	url = https://github.com/ggloor/aldex_bioc
 	shallow = true
 	registered = true
+[submodule "ggpattern"]
+	path = ggpattern
+	url = https://github.com/coolbutuseless/ggpattern
+	shallow = true
+	registered = false
