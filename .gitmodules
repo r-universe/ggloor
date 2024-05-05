@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ALDEx2"]
-	path = ALDEx2
-	url = https://github.com/ggloor/aldex_bioc
 [submodule "aIc"]
 	path = aIc
 	url = https://github.com/ggloor/aic
