@@ -5,7 +5,3 @@
 [submodule "aIc"]
 	path = aIc
 	url = https://github.com/ggloor/aic
-[submodule "ggpattern"]
-	path = ggpattern
-	url = https://github.com/coolbutuseless/ggpattern
-	registered = false
